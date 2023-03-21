@@ -1,10 +1,11 @@
  
 
 
-/* body {
-  /* margin-left: 60px; */
-  /* margin-right: 20px; */
-  /* font-family: serif; */
+body {
+   margin-left: 60px;
+ 
+background-color:rgba(166, 240, 243, 0.425) ;
+}
 
 
 img {
@@ -312,7 +313,7 @@ button[type="submit"]:hover {
 }
 
 #facebook:hover {
-  background-color: #2d4373;
+  background-color: #145cf8;
 }
 
 #linkedin {
@@ -324,34 +325,34 @@ button[type="submit"]:hover {
 }
 
 #twitter {
-  background-color: #83c3f3;
+  background-color: #3c6a8d;
 }
 
 #twitter:hover {
-  background-color: #55acee;
+  background-color: #0e94fa;
 }
 
 #gmail {
-  background-color: #dd4b39;
+  background-color: #fd2408;
 }
 
 #gmail:hover {
-  background-color: #c23321;
+  background-color: #7e190b;
 }
 
 #whatsapp {
-  background-color: #6ba92f;
+  background-color: #3c5226;
 }
 
 #whatsapp:hover {
-  background-color: #528124;
+  background-color: #59aa07;
 }
 
 #mail {
-  background-color: #ed4926;
+  background-color: #e42e05;
 }
 
 #mail:hover {
-  background-color: #cf3311;
+  background-color: #661401;
 }
 
